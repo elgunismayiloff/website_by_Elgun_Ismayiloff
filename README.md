@@ -3,16 +3,11 @@ Here’s the translated README.md file in English, reflecting the latest updates
 
 ---
 
-# Jasperpack
+# Jasper Pack
 
 `Jasperpack` is a Flutter package offering various animation loaders with color transitions and nested animations.
 
 
-
-## Features
-
-- **JasperLoader**: A rotating loader animation with color transitions.
-- **JasperLoader2**: Nested rotating loader animations with multiple color animations.
 
 ## Installation
 
